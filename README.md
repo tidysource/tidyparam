@@ -1,2 +1,2 @@
 # tidyparam
-Validate and conform to type - usually used with function parameters.
+See tidyval as replacement: https://github.com/tidysource/tidyval
